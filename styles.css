@@ -2,10 +2,11 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
+	justify-content: center;
 }
 .item1{
 	width:100px;
 	height:100px;
 	background-color:green;
-	justify-content: center;
+	
 }
